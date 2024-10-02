@@ -11,7 +11,6 @@ def check_localhost():
 
 def check_connectivity():
     request = requests.get("http://www.google.com")
-    response = request
     return response.status_code == 200
 
 if check_localhost() and check_connectivity():
