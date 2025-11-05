@@ -16,3 +16,4 @@ while True:
 print(r.status_code)
 #Az sum Kmeta
 #Az sum Ico
+#Az sum ChatGPT
