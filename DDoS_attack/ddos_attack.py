@@ -14,3 +14,4 @@ while True:
   print("Request number: " + str(i))
 
 print(r.status_code)
+#Az sum Kmeta
